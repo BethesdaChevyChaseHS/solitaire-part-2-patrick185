@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) { 
       GameState gameState = new GameState();
 
-      int test = 0;
+      int test = 2;
 
       if(test == 0){
         gameState.printState();//should print initital game state
